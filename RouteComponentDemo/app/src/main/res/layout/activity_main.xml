@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_tocompa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="启动组件A中的UI"
+         />
+    <Button
+        android:id="@+id/btn_tocompa_svr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="调用组件A中的接口"
+        />
+    <Button
+        android:id="@+id/btn_tocompb_ui"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="启动组件B中的跨进程UI"
+        />
+    <Button
+        android:id="@+id/btn_tocompb_svr1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="启动组件B中的跨进程服务1"
+        />
+    <Button
+        android:id="@+id/btn_tocompb_svr2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="启动组件B中的跨进程服务2"
+        />
+    <Button
+        android:id="@+id/btn_tocompb_svr3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="组件B中的跨进程消息"
+        />
+    <Button
+        android:id="@+id/btn_tocompc_ui"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="启动组件C中的UI并得到结果值"
+        />
+
+</LinearLayout>

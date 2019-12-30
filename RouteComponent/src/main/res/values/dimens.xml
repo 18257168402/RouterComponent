@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dimen_text_large">14sp</dimen>
+    <dimen name="dimen_text_medium">12sp</dimen>
+    <dimen name="dimen_text_small">10sp</dimen>
+    <dimen name="dimen_text_little">7sp</dimen>
+    <dimen name="dimen_text_tiny">6sp</dimen>
+
+    <dimen name="dimen_status_bar">44dp</dimen>
+</resources>

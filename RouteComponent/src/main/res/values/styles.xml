@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:actionMenuTextColor">@color/color_white</item>
+    </style>
+
+    <style name="AppThemeFullscreen" parent="AppTheme.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="spinnerStyle" parent="android:Widget.ListView.DropDown">
+        <!-- 分隔线颜色 -->
+        <item name="android:divider">@color/color_divider</item>
+        <item name="android:dividerHeight">1px</item>
+        <!-- item按下效果 -->
+        <!--<item name="android:listSelector">@color/color_white</item>-->
+    </style>
+
+    <style name="SpinnerActivityTheme" parent="AppThemeFullscreen">
+        <item name="android:dropDownListViewStyle">@style/spinnerStyle</item>
+
+    </style>
+
+    <!--所有的灯控设置拖动条Style-->
+    <style name="StyleSeekBarLight">
+        <item name="android:layout_width">620px</item>
+        <item name="android:layout_height">15px</item>
+        <item name="android:max">255</item>
+        <item name="android:maxHeight">8px</item>
+        <item name="android:minHeight">8px</item>
+        <item name="android:progress">0</item>
+        <item name="android:layout_marginTop">10px</item>
+        <item name="android:paddingLeft">0px</item>
+        <item name="android:paddingRight">0px</item>
+        <item name="android:paddingStart">0px</item>
+        <item name="android:paddingEnd">0px</item>
+        <item name="android:thumbOffset">0px</item>
+        <item name="android:progressDrawable">@drawable/iot_progress</item>
+        <item name="android:thumb">@drawable/iot_progress_thmb</item>
+    </style>
+
+
+</resources>

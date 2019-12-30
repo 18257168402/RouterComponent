@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">RkLauncher</string>
+    <!--IOT Strings-->
+    <string name="iot_main_page">首页</string>
+    <string name="iot_find">发现</string>
+    <string name="iot_setting">设置</string>
+    <string name="iot_switch">开关</string>
+    <string name="iot_audio">语音</string>
+    <string name="iot_gesture">手势</string>
+    <string name="iot_cleaner">净化器</string>
+    <string name="iot_voice_box">音箱</string>
+    <string name="iot_slide_door">移门</string>
+    <string name="iot_bgm">背景音乐</string>
+    <string name="iot_light">灯控</string>
+    <string name="iot_search_device">搜索设备</string>
+    <string name="iot_device_control">设备控制</string>
+    <string name="iot_delete">删除</string>
+    <string name="iot_cancel">取消</string>
+    <string name="iot_add_device_remind">将上方设备控制拖动到这里进行设备配置</string>
+    <string name="iot_save">保存</string>
+    <string name="iot_rename">重命名</string>
+    <string name="iot_delay">延时</string>
+    <string name="iot_input_new_name">请输入新的命名</string>
+    <string name="iot_input_new_mode_name">请输入预设模式名称</string>
+    <string name="iot_input_delay_time">请输入想要延时的时间</string>
+    <string name="iot_open">开</string>
+    <string name="iot_close">关</string>
+    <string name="iot_about">关于</string>
+    <string name="iot_feedback">反馈</string>
+    <string name="iot_check_update">检测升级</string>
+    <string name="iot_device">设备</string>
+    <string name="iot_all_device">全部设备</string>
+    <string name="iot_device_update">设备升级</string>
+    <string name="iot_device_name">设备名称</string>
+    <string name="iot_device_status">状态</string>
+    <string name="iot_error_reason">异常原因</string>
+    <string name="iot_desc">描述</string>
+    <string name="iot_report_number">检测报告编号</string>
+    <string name="iot_detail">详情</string>
+    <string name="iot_watch">查看</string>
+    <string name="iot_go_to_find_to_add_device">请前往“发现”进行设备配置</string>
+    <string name="iot_input_not_null">输入框不能为空</string>
+    <string name="iot_is_action_configuring">当前正在进行动作配置</string>
+    <string name="iot_is_biggest">已经达到最大值</string>
+    <string name="iot_light_open">开灯</string>
+    <string name="iot_light_close">关灯</string>
+    <string name="iot_light_more">亮一点</string>
+    <string name="iot_light_less">暗一点</string>
+    <string name="iot_light_bright">明亮</string>
+    <string name="iot_light_warm">温暖</string>
+    <string name="iot_door_open">开门</string>
+    <string name="iot_door_close">关门</string>
+    <string name="iot_door_keep_open">保持开门</string>
+    <string name="iot_door_keep_close">保持关门</string>
+    <string name="iot_aroma_open">开香薰</string>
+    <string name="iot_aroma_close">关香薰</string>
+    <string name="iot_dry_open">开干燥器</string>
+    <string name="iot_dry_close">关干燥器</string>
+    <string name="iot_song_play">播放音乐</string>
+    <string name="iot_song_pause">音乐暂停</string>
+    <string name="iot_song_stop">音乐关闭</string>
+    <string name="iot_vol_up">提高音量</string>
+    <string name="iot_vol_down">降低音量</string>
+    <string name="iot_song_prev">上一首</string>
+    <string name="iot_song_next">下一首</string>
+    <string name="iot_phone_take">打电话</string>
+    <string name="iot_config_success">配置成功</string>
+    <string name="iot_config_failed">配置失败</string>
+    <string name="iot_is_configuring">正在进行设备配置</string>
+    <string name="iot_location">位置描述</string>
+    <string name="iot_input_location">请输入设备的位置描述</string>
+
+
+
+    <string-array name="time_label">
+        <item>年</item>
+        <item>月</item>
+        <item>日</item>
+        <item>时</item>
+        <item>分</item>
+        <item>秒</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </string-array>
+    <string-array name="month_label">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+        <item>十一</item>
+        <item>十二</item>
+    </string-array>
+    <string name="chinese_day">农历:</string>
+    <string-array name="chinese_day_label">
+        <item>初</item>
+        <item>十</item>
+        <item>廿</item>
+        <item>三</item>
+        <item>初十</item>
+    </string-array>
+</resources>

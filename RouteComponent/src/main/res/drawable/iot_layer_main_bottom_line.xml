@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="56px">
+        <shape android:shape="rectangle">
+
+            <corners android:radius="5px" />
+            <size
+                android:width="30px"
+                android:height="10px" />
+            <solid android:color="@color/iot_stroke_color_blue" />
+        </shape>
+    </item>
+</layer-list>

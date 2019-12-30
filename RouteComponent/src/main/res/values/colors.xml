@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_primary">#ffffff</color>
+    <color name="color_primary_dark">#ffffff</color>
+    <color name="color_accent">#FF4081</color>
+
+    <color name="color_primary_translucent">#1f528df5</color>
+    <color name="color_translucent">#00000000</color>
+
+
+    <color name="color_loading">#afffffff</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_first_white_0">#f7f7f7</color>
+    <color name="color_secondary_white">#f0f0f0</color>
+    <color name="color_translucent_white">#7dffffff</color>
+
+    <color name="color_primary_black">#000000</color>
+    <color name="color_secondary_black">#333333</color>
+    <color name="color_translucent_black">#7d000000</color>
+
+    <color name="color_primary_grey">#aeaeae</color>
+    <color name="color_secondary_grey">#c8c8c8</color>
+    <color name="color_translucent_grey">#7daeaeae</color>
+    <color name="color_secondary_translucent_grey">#1ac8c8c8</color>
+
+    <color name="color_primary_yellow">#FFFF00</color>
+    <color name="color_secondary_yellow">#e0e000</color>
+
+    <color name="color_primary_red">#FF0000</color>
+    <color name="color_secondary_red">#f10000</color>
+
+    <color name="color_window_background">#f7f6fc</color>
+
+    <color name="bg">#F0F0F0</color>
+
+    <color name="color_divider">#e0e0e0</color>
+    <color name="color_btn_on">#3399ff</color>
+    <color name="color_btn_off">#cccccc</color>
+
+    <color name="color_tab_on">#ff3333</color>
+    <color name="color_tab_off">#666666</color>
+
+    <color name="color_btn_unable">#cccccc</color>
+
+    <color name="color_renting_border">#ffd6a0</color>
+    <color name="color_renting_solid">#fff6ea</color>
+    <color name="color_authorize_border">#b9e9fc</color>
+    <color name="color_authorize_solid">#eaf9ff</color>
+
+    <color name="color_status_blue_solid">#eaf9ff</color>
+    <color name="color_status_blue_border">#b9e9fc</color>
+    <color name="color_status_red_solid">#ffeaed</color>
+    <color name="color_status_red_border">#ffcdd4</color>
+    <color name="color_status_orange_solid">#fff6ea</color>
+    <color name="color_status_orange_border">#ffd6a0</color>
+    <color name="color_status_green_solid">#e8fdf2</color>
+    <color name="color_status_green_border">#b2fbcf</color>
+
+    <color name="color_refresh_border">#ffd6a0</color>
+    <color name="color_refresh_solid">#fff6ea</color>
+
+    <color name="color_search_rent_border">#efefef</color>
+    <color name="color_search_rent_solid">#f7f6fc</color>
+
+    <color name="color_consult_border">#ffcdd4</color>
+    <color name="color_consult_rent_solid">#ffeaed</color>
+
+    <color name="color_text_black_1">#333333</color>
+    <color name="color_text_black_2">#999999</color>
+    <color name="color_text_red_1">#ff3333</color>
+
+    <color name="color_text_blue">#3399ff</color>
+
+
+    <color name="color_text_group">#a9b8dd</color>
+
+    <color name="color_text_title">#496099</color>
+
+    <color name="color_spinner_default">#566a9b</color>
+    <color name="color_spinner_selected">#374b7c</color>
+
+    <color name="color_btn_press">#e9e9e9</color>
+
+    <color name="color_window_mask">#33000000</color>
+
+
+    <color name="color_read_only">#f3f3f3</color>
+
+    <color name="color_main_bk">#203555</color>
+    <color name="color_page_flag">#7c9eec</color>
+    <color name="color_setting_bk">#4b7c9eec</color>
+
+    <!--IOT 字体颜色-->
+    <color name="iot_text_color_gray">#a9b8dd</color>
+    <color name="iot_text_color_blue">#62e7ff</color>
+    <color name="iot_text_color_white">#ffffff</color>
+    <color name="iot_text_color_light_blue">#496099</color>
+
+    <!--IOT 边框颜色-->
+    <color name="iot_stroke_color_gray">#a9b8dd</color>
+    <color name="iot_stroke_color_blue">#62e7ff</color>
+    <color name="iot_stroke_color_blue_checked">#374b7c</color>
+    <color name="iot_stroke_color_white">#ffffff</color>
+
+    <!--IOT背景色-->
+    <color name="iot_bg_color_blue">#566a9b</color>
+    <color name="iot_bg_color_blue_checked">#374b7c</color>
+    <color name="iot_bg_color_white">#ffffff</color>
+    <color name="iot_bg_color_gray">#33333333</color>
+</resources>
